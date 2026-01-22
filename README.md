@@ -34,7 +34,8 @@ To support the analysis, additional modeling and DAX logic were implemented:
 
 **❌ Order Cancellations**
 
-**Insight:** Road bikes account for the majority of canceled orders, indicating a category-specific issue.
+![Cancelation byCategory](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/CancelationbyCategory.JPG?raw=true)  
+**Insight:** Road bikes account for the majority of canceled orders, indicating a category-specific issue.  
 **Recommendation:** Reassess pricing, positioning, or operational factors related to Road Bikes.
 
 **💰 Premium Products**
