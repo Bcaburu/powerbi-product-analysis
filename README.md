@@ -1,5 +1,11 @@
 # powerbi-product-analysis
 Sales analysis project developed in Power BI to support strategic decisions for an upcoming product launch, using historical sales data to identify trends, risks, and growth opportunities.
+# 🛠️ Tools & Technologies
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
 # 🎯 Business Context
 The company is preparing to launch a new product line next quarter and requested an in-depth analysis of recent sales data to better understand customer preferences, product performance, and potential risks before the launch.
 # 👥 Stakeholders
