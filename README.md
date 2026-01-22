@@ -28,6 +28,7 @@ To support the analysis, additional modeling and DAX logic were implemented:
 
 **🚴 Product Category Performance**
 
+![Revenue byCategory](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/RevenuebyCategory.JPG?raw=true)  
 **Insight:** Mountain and Touring bikes generate the highest revenue among processed and shipped orders.  
 **Recommendation:** Prioritize these categories for the new product launch.
 
