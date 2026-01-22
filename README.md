@@ -18,3 +18,25 @@ To support the analysis, additional modeling and DAX logic were implemented:
 - Calendar table created using DAX to enable time-based analysis
 - Measures adjusted to return zero instead of blank values for more accurate visuals
 - Products classified into price tiers (Entry-Level, Core, Premium) based on price distribution
+# 📊 Dashboard Overview
+![Dashboard Overview](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/DashboardOverview.JPG?raw=true)
+# 🔍 Insights & Recommendations
+**📅 Data Coverage**  
+
+**Insight:** The limited time range restricts advanced trend analysis.  
+**Recommendation:** Incorporate additional historical data for future analyses.
+
+**🚴 Product Category Performance**
+
+**Insight:** Mountain and Touring bikes generate the highest revenue among processed and shipped orders.  
+**Recommendation:** Prioritize these categories for the new product launch.
+
+**❌ Order Cancellations**
+
+**Insight:** Road bikes account for the majority of canceled orders, indicating a category-specific issue.
+**Recommendation:** Reassess pricing, positioning, or operational factors related to Road Bikes.
+
+**💰 Premium Products**
+
+**Insight:** Premium-priced products represent a smaller share of the catalog but generate a disproportionate amount of total revenue.
+**Recommendation:** Use premium product characteristics as benchmarks for the new product line.
