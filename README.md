@@ -41,5 +41,8 @@ To support the analysis, additional modeling and DAX logic were implemented:
 
 **💰 Premium Products**
 
-**Insight:** Premium-priced products represent a smaller share of the catalog but generate a disproportionate amount of total revenue.
-**Recommendation:** Use premium product characteristics as benchmarks for the new product line.
+![Premium Products](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/PremiumProducts.JPG?raw=true)  
+**Insight:** Among processing and shipped orders, premium products account for only 21% of the product portfolio but generate 32% of total revenue.  
+![Top Four Products](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/TopFourProducts.JPG?raw=true)   
+**Evidence:** The four most ordered products are all classified as premium, reinforcing the strong revenue impact of higher-priced items despite their lower representation in the catalog.  
+**Recommendation:** Use premium product characteristics as benchmarks for the new product line, especially for positioning and pricing strategy.
