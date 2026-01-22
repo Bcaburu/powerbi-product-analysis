@@ -18,6 +18,7 @@ To support the analysis, additional modeling and DAX logic were implemented:
 - Calendar table created using DAX to enable time-based analysis
 - Measures adjusted to return zero instead of blank values for more accurate visuals
 - Products classified into price tiers (Entry-Level, Core, Premium) based on price distribution
+- Percentage-based measures were created to compare product share versus revenue contribution, displayed via tooltips to enhance insight without cluttering visuals
 # 📊 Dashboard Overview
 ![Dashboard Overview](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/DashboardOverview.JPG?raw=true)
 # 🔍 Insights & Recommendations
