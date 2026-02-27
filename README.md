@@ -26,7 +26,7 @@ To support the analysis, additional modeling and DAX logic were implemented:
 - Products classified into price tiers (Entry-Level, Core, Premium) based on price distribution
 - Percentage-based measures were created to compare product share versus revenue contribution, displayed via tooltips to enhance insight without cluttering visuals
 # Dashboard Overview
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/DashboardOverview.JPG?raw=true)
 # Insights & Recommendations
 **Data Coverage**  
 
@@ -35,7 +35,7 @@ To support the analysis, additional modeling and DAX logic were implemented:
 
 **Product Category Performance**
 
-![Revenue byCategory]()  
+![Revenue byCategory](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/RevenuebyCategory.JPG?raw=true)  
 **Insight:** Mountain and Touring bikes generate the highest revenue among processed and shipped orders.  
 **Recommendation:** Prioritize these categories for the new product launch.
 
@@ -47,8 +47,8 @@ To support the analysis, additional modeling and DAX logic were implemented:
 
 **Premium Products**
 
-![Premium Products]()  
+![Premium Products](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/PremiumProducts.JPG?raw=true)  
 **Insight:** Among processing and shipped orders, premium products account for only 21% of the product portfolio but generate 32% of total revenue.  
-![Top Four Products]()   
+![Top Four Products](https://github.com/Bcaburu/powerbi-product-analysis/blob/main/images~/TopFourProducts.JPG?raw=true)   
 **Evidence:** The four most ordered products are all classified as premium, reinforcing the strong revenue impact of higher-priced items despite their lower representation in the catalog.  
 **Recommendation:** Use premium product characteristics as benchmarks for the new product line, especially for positioning and pricing strategy.
